@@ -1,0 +1,9 @@
+According to the privacy policy,
+your wallet may deanonymize you or
+disclose some details of your identity,
+since it contains your encrypted fingerprint.
+The encryption algorithm is developed by NETRUN IS
+and is not transmitted to third parties, nor is it
+stored on servers. By using our network, you confirm
+that you are fully responsible for your actions as
+well as for the safety of your wallet.dat wallet.
